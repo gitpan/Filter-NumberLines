@@ -64,7 +64,7 @@ found on http://www.gnu.org/copyleft/gpl.html
 
 =head1 VERSION
 
-This is Filter::NumberLines::Simple 0.01.
+This is Filter::NumberLines::Simple 0.02.
 
 =head1 AUTHOR
 

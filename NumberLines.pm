@@ -4,7 +4,7 @@ use strict;
 use vars qw($VERSION);
 use Filter::Util::Call ;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 my $line = 0;
 
@@ -65,7 +65,7 @@ Filter::NumberLines - Source filter for Numbering lines.
 
 =head1 NOTE
 
-This module is used in the Source Filters in Perl talk I'm planning for YAPC::Eu 2.00.2 in Munich.
+This module is used in the Source Filters in Perl talk I gave at YAPC::Eu 2.00.2 in Munich.
 
 =head1 REQUIREMENTS
 
@@ -82,7 +82,7 @@ found on http://www.gnu.org/copyleft/gpl.html
 
 =head1 VERSION
 
-This is Filter::NumberLines 0.01.
+This is Filter::NumberLines 0.02.
 
 =head1 AUTHOR
 

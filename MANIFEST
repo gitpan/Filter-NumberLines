@@ -1,9 +1,12 @@
+examples/helloworld.pl
+examples/raven.pl
 Changes
 Makefile.PL
 MANIFEST
+README
+COPYING
+COPYRIGHT
 NumberLines.pm
-Simple.pm
-Scratch.pm
+NumberLines/Simple.pm
+NumberLines/Scratch.pm
 test.pl
-examples/helloworld.pl
-examples/raven.pl
